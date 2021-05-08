@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468345939 source:d:\coding\code\lucky numbr\lucky numbr\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

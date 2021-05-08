@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463815403 source:c:\users\tonni\desktop\assgmnt\dynamic\code\main.cpp
+	<iostream>
+	<conio.h>
+	"main.h"
+
+1463759127 c:\users\tonni\desktop\assgmnt\dynamic\code\main.h
+	<windows.h>
+

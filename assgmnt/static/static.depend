@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667746 source:c:\users\tonni\desktop\assgmnt\static\main.c
+
+1463593979 source:c:\users\tonni\desktop\assgmnt\static\src\mathsl.cpp
+	"mathSL.h"
+	<stdexcept>
+
+1463603450 c:\users\tonni\desktop\assgmnt\static\include\mathsl.h
+

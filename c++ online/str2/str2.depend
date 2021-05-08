@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458402919 source:c:\users\tonni\desktop\c++ online\str2\str2.cpp
+	<iostream>
+	<cstring>
+

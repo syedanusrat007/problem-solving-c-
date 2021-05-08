@@ -1,0 +1,6 @@
+EXPORTS
+    DllMain@12 @1
+    SomeFunction @2
+    _ZN9Functions11AddMultiplyEdd @3
+    _ZN9Functions3AddEdd @4
+    _ZN9Functions8MultiplyEdd @5
